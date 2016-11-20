@@ -1,10 +1,10 @@
 h1 {
-    color: purple;
+    color: orange;
 }
 
 a:hover { color: blue; }
 a:active { color: red; }
-a:visited { color: lightgreen; }
+a:visited { color: lavender; }
 
 body {
     background: orange;
